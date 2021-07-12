@@ -1,9 +1,9 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Jacob Farr's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jacob Farr
+Knowledge Master
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,7 +16,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 ## Education
 
 `2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University, Idaho__, Salt Lake City, UT
 
 - Full academic scholarship with 4.0 GPA
 
