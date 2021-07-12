@@ -34,12 +34,12 @@ __Brigham Young University, Idaho__, Rexburg, ID
 `April 2020 - June 2020`
 __Research and Business Development Center__, Rexburg, ID (Remote/Online)
 
-•	Utilized Agile/Scrum methodologies with a team to manage a complex project workload
-•	Designed several remote presentations to clarify project scope and to explain gathered data
-•	Analyzed a relational database to understand an organization’s current IT server infrastructure
-•	Performed secondary research to provide the client with hardware update recommendations
-•	Created a project portfolio for the client CenturyLink to summarize their current IT infrastructure and to present recommendations within their $30 million server hardware update budget
-•	Letter of Recommendation available upon request and viewable at LinkedIn
+- Utilized Agile/Scrum methodologies with a team to manage a complex project workload
+- Designed several remote presentations to clarify project scope and to explain gathered data
+- Analyzed a relational database to understand an organization’s current IT server infrastructure
+- Performed secondary research to provide the client with hardware update recommendations
+- Created a project portfolio for the client CenturyLink to summarize their current IT infrastructure and to present recommendations within their $30 million server hardware update budget
+- Letter of Recommendation available upon request and viewable at LinkedIn
 
 
 ### Work History
