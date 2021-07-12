@@ -19,7 +19,7 @@ Computer Science Student
 `2025-2027`
 __Brigham Young University, Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor of Science, Computer Science
 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
