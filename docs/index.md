@@ -6,13 +6,19 @@ title: Jacob Farr's Resume
 Computer Science Student
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="jacob@farrever.com">jacob@farrever.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/jacobfarr/">LinkedIn</a>
+| <a href="https://github.com/Morthais">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Tools and Technologies Summary
+<ul>
+    <li>Programming Languages: Python</li>
+
+</ul>
 
 ## Education
 
