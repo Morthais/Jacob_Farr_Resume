@@ -47,22 +47,28 @@ __Research and Business Development Center__, Rexburg, ID (Remote/Online)
 `May 2019 - September 2019`
 __BYU-Idaho Student Employment__, Vending Clerk
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Managed an inventory database to track purchasing patterns for the best possible profit
+- Stock vending machines on-campus by placing daily/weekly orders for replacement products
+- Received requests from and cooked meals for students to provide effective customer service
+- Operated the cash register for an on-campus grocery store to process client purchases
+- Cleaned work areas and unloaded new product to ease the workload on the chefs
+
 
 ## Volunteer Experience
 
 `April 2021 - Present`
 __Sunday School President__, The Church of Jesus Christ of Latter-Day Saints
-
+- Coordinated Sunday meetings for a local church
+- Supervised 3 local volunteers
 
 `July 2020 - March 2021`
 __Branch Clerk__, The Church of Jesus Christ of Latter-Day Saints
+- Supervised the finances for a local church
 
 `October 2016 - January 2018`
-__Missionary__, The Church of Jesus Christ of Latter-Day Saints
-
+__Service Missionary__, The Church of Jesus Christ of Latter-Day Saints
+- Helped 1,000+ people make and reach personal goals
+- Supervised 10 full-time volunteers
 
 
 <!-- ### Footer
